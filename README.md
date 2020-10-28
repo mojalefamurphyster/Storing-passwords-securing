@@ -3,7 +3,7 @@ Basic password salting and hashing for secure database storage (input validation
 
 # Technology stack
 Backend: AMP-stack (Apache, MySQL, PHP)
-Frontend: JavaScript, jQuery, CSS Bootstrap
+Frontend: ReactJS
 
 # Use
 Enter your email and password (with password confirmation) to sign up for a Software Development newsletter account.
